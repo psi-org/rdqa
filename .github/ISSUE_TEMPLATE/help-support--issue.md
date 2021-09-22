@@ -1,6 +1,6 @@
 ---
 name: Help Support/ Issue
-about: Create a report to help us improve
+about: To report any issue with the metadata files, instructions or to require additional assistance, please use this form. 
 title: ''
 labels: bug
 assignees: ''
