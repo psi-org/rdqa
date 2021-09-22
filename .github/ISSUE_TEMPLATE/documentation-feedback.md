@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Manual
+## Manual Name
 _Description_
 
 ## Section/Stage
