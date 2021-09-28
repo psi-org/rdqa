@@ -1,3 +1,7 @@
-# rdqa in 5 lines
+PSI’s routine data quality assessments (RDQA)  methodology is based on the DQA tool (Data Quality Tool) originally developed by various multilateral and bilateral organizations in 2007 as an evaluation tool for external agents to an organization. The RDQA process includes the verification of the quality of reported data against source documents, identify causes of poor-quality data by assessing the ability of the data management system to collect, manage and report quality data, and support the development of data quality improvement plans to strengthen the data management and reporting system to improve data quality.
 
-sendign feedback and help request
+PSI has implemented RDQA in DHIS2, meeting M&E teams’ demands for a mobile tool to collect RDQA data, as well as immediate rendering of the assessment outcomes, plus the development of corrective actions plans with those responsible for the data. We modeled the RDQA workflows in DHIS2 tracker, and created a fork of the University of Oslo (UiO) Data Capture DHIS2 Android app to enable and richer UX experience on the form of a feedback module.
+
+This repository provides the metadata file with a generic configuration. You will need to edit it with your own list of Health Areas and Indicators. Additionally you can also tailor the feedback content, action plan level of detail, as well as the district and country level dashboards.
+
+Full documentation in the form of user manuals, instalation and configuration guides are available in the wiki of this site.
