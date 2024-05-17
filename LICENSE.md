@@ -16,9 +16,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-[CC BY 4.0 Deed | Attribution 4.0 International | Creative Commons]((https://creativecommons.org/licenses/by/4.0/legalcode.en))
+[CC BY 4.0 Deed | Attribution 4.0 International | Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode.en)
 
 ### Source Code
 The source code of the PCA is kept at:
 
-[GitHub - psi-org/rdqa: DHIS2 RDQA (Routine Data Quality Assessments) is an implementation of the RDQA methodology using DHIS2 tracker data model. You can download the necessary metadata packages from this repository](https://github.com/psi-org/rdqa)
+[GitHub - psi-org/rdqa: DHIS2 RDQA (Routine Data Quality Assessments)](https://github.com/psi-org/rdqa)
